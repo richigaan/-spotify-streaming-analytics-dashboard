@@ -24,4 +24,4 @@ The solution combines multiple interactive visualizations that allow users to na
 
 The objective was to transform a public dataset into a Business Intelligence solution that supports exploratory analysis and data-driven storytelling. 
 
-![Dashboard Demo]/spotify_dashboard.gif
+![Dashboard Demo](gifs/dashboard-demo.gif)
