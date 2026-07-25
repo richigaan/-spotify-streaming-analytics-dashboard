@@ -23,3 +23,5 @@ This project analyzes worldwide Spotify streaming data through an interactive Ta
 The solution combines multiple interactive visualizations that allow users to navigate between a global overview of streaming activity and detailed artist-level insights.
 
 The objective was to transform a public dataset into a Business Intelligence solution that supports exploratory analysis and data-driven storytelling. 
+
+![Dashboard Demo]/spotify_dashboard.gif
