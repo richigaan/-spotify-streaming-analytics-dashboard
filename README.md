@@ -51,3 +51,5 @@ The dashboard includes:
 - **Tableau** — Interactive dashboard development and data visualization.
 - **Spotify Public Dataset (Kaggle)** — Public data source.
 - **SQL** — Basic calculated fields, aggregations, and conditional logic (e.g., `SUM`, `CASE`, `WHERE`) to support custom metrics.
+
+![Dashboard Demo](gifs/dashboard2.png)
